@@ -1,2 +1,8 @@
-# markdownsample
-Following along with: https://www.youtube.com/watch?v=p8yKoPaDqiA
+# Header 1
+
+## Header 2
+
+* Bullet 1
+* Bullet 2
+
+Paragraph text here
